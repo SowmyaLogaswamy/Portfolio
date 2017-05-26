@@ -23,6 +23,7 @@
   float: left;
 }
 .column {
+
     width: 500px;
     float: left;
     text-align: left;
@@ -37,4 +38,9 @@
 }
 body{
   background-size: 100%;
+}
+.para {
+
+font-style: italic;
+
 }
