@@ -1,29 +1,26 @@
 .header1 {
   float: center;
-
-
 }
+
 
 .header2 {
     float: center;
-
-
 }
 
-/*.header3 {
-
-}*/
 
 .pic {
   width: 450px;
   float: left;
 }
+
+
 .pic#certificate {
   width: 450px;
   float: left;
 }
-.column {
 
+
+.column {
     width: 500px;
     float: left;
     text-align: left;
@@ -32,15 +29,19 @@
     border: 4px solid black;
    background-color: white;
 }
+
+
 .column#aboutme {
   width: 300px;
   float: left;
 }
+
+
 body{
   background-size: 100%;
 }
+
+
 .para {
-
 font-style: italic;
-
 }
