@@ -1,0 +1,35 @@
+.header1 {
+  float: center;
+
+}
+
+.header2 {
+    float: center;
+
+}
+
+/*.header3 {
+
+}*/
+
+.pic {
+  width: 500px;
+  float: left;
+}
+.pic#certificate {
+  width: 450px;
+  float: left;
+}
+.column {
+    width: 500px;
+    float: left;
+    text-align: left;
+    padding: 20px;
+    margin-left: 20px;
+    border: 4px solid purple;
+   background-color: #c8ede9;
+}
+.column#aboutme {
+  width: 300px;
+  float: left;
+}
