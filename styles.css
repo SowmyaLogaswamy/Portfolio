@@ -1,10 +1,12 @@
 .header1 {
   float: center;
 
+
 }
 
 .header2 {
     float: center;
+
 
 }
 
@@ -32,4 +34,7 @@
 .column#aboutme {
   width: 300px;
   float: left;
+}
+body{
+  background-size: 100%;
 }
